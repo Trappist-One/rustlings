@@ -13,7 +13,6 @@ mod macros {
     }
 }
 
-#[my_macro]
 fn main() {
     my_macro!();
 }
